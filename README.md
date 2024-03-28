@@ -1,4 +1,4 @@
-# Digital Marketing AB test
+# A/B Testing for Digital Marketing 
 
 ### Data Source 
 A case study from Harvard Business Publishing Education: https://hbsp.harvard.edu/product/M347-PDF-ENG
